@@ -1,0 +1,4 @@
+[submodule "org.mdkt.compiler"]
+	path = org.mdkt.compiler
+	url = https://github.com/UniGrammar/InMemoryJavaCompiler
+	branch = private
